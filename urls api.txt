@@ -1,0 +1,19 @@
+
+Lista de roles
+
+http://localhost:8000/api/rol/
+
+
+Lista de usuarios
+
+http://localhost:8000/api/usuario/
+
+
+Lista de Servicios
+
+http://localhost:8000/api/servicio/
+
+
+Lista de publicaciones
+
+http://localhost:8000/api/publicacion/
